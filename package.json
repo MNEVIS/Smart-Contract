@@ -1,0 +1,19 @@
+{
+  "name": "smart-contract",
+  "version": "1.0.0",
+  "description": "MNEVIS Smart Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNEVIS/Smart-Contract.git"
+  },
+  "author": "Jose Halter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MNEVIS/Smart-Contract/issues"
+  },
+  "homepage": "https://github.com/MNEVIS/Smart-Contract#readme"
+}
